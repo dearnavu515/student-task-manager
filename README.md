@@ -22,10 +22,11 @@ Frontend: React | Backend: Node.js + Express | Database: MongoDB
 3. Start app: `npm start`
 
 ## Screenshots
-[<img src="screenshots/frontend1.png" width="500">](https://github.com/dearnavu515/student-task-manager/blob/main/frontend%201.png)
-https://github.com/dearnavu515/student-task-manager/blob/main/frontend%201.png
-[<img src="screenshots/frontend2.png" width="500">](https://github.com/dearnavu515/student-task-manager/blob/main/mongodb%201.png)
-https://github.com/dearnavu515/student-task-manager/blob/main/mongodb%202.png
+[<img src="screenshots/frontend%201.png" width="500">](screenshots/frontend%201.png)
+[<img src="screenshots/frontend%202.png" width="500">](screenshots/frontend%202.png)
+[<img src="screenshots/mongodb%201.png" width="500">](screenshots/mongodb%201.png)
+[<img src="screenshots/mongodb%202.png" width="500">](screenshots/mongodb%202.png)
+
 
 
 
