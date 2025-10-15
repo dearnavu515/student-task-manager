@@ -22,11 +22,11 @@ Frontend: React | Backend: Node.js + Express | Database: MongoDB
 3. Start app: `npm start`
 
 ## Screenshots
-[<img src="screenshots/frontend%201.png" width="500">](screenshots/frontend%201.png)
-[<img src="screenshots/frontend%202.png" width="500">](screenshots/frontend%202.png)
-[<img src="screenshots/mongodb%201.png" width="500">](screenshots/mongodb%201.png)
-[<img src="screenshots/mongodb%202.png" width="500">](screenshots/mongodb%202.png)
 
+### 🌐 Frontend
+<img src="frontend 1.png" width="500">
+<img src="frontend 2.png" width="500">
 
-
-
+### 🗄️ MongoDB Compass
+<img src="mongodb 1.png" width="500">
+<img src="mongodb 2.png" width="500">
