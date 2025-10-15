@@ -21,4 +21,11 @@ Frontend: React | Backend: Node.js + Express | Database: MongoDB
 2. Install dependencies: `npm install`
 3. Start app: `npm start`
 
+## Screenshots
+<img src="screenshots/frontend1.png" width="500">
+<img src="screenshots/frontend2.png" width="500">
+<img src="screenshots/mongodb1.png" width="500">
+<img src="screenshots/mongodb2.png" width="500">
+
+
 
