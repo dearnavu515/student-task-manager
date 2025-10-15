@@ -21,5 +21,4 @@ Frontend: React | Backend: Node.js + Express | Database: MongoDB
 2. Install dependencies: `npm install`
 3. Start app: `npm start`
 
-### Screenshots
-Include screenshots in `screenshots/` folder.
+
