@@ -22,7 +22,7 @@ Frontend: React | Backend: Node.js + Express | Database: MongoDB
 3. Start app: `npm start`
 
 ## Screenshots
-<img src="screenshots/frontend1.png" width="500">
+[<img src="screenshots/frontend1.png" width="500">](https://github.com/dearnavu515/student-task-manager/blob/main/frontend%201.png)
 <img src="screenshots/frontend2.png" width="500">
 <img src="screenshots/mongodb1.png" width="500">
 <img src="screenshots/mongodb2.png" width="500">
